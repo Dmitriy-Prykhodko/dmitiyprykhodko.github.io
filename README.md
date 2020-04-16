@@ -1,1 +1,0 @@
-# dmitiyprykhodko.github.io
