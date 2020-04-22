@@ -72,7 +72,7 @@ labelDark.addEventListener('click',()=>{
     if(!checkboxDark.checked){
         darkcss = document.createElement('link');
         darkcss.rel = 'stylesheet';
-        darkcss.href = '../css/darkstyle.css';
+        darkcss.href = 'css/darkstyle.css';
         let head = document.querySelector('head');
         head.append(darkcss);
         console.log(darkcss);
