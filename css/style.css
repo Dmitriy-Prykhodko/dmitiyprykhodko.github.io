@@ -355,7 +355,8 @@ td {
 }
 /*Блок с моим городом*/
 .cityBox{
-	height: 650px;
+	padding-top: 30px;
+	padding-bottom: 30px;
 	width: 100%;
 	position: relative;
 	display: flex;
