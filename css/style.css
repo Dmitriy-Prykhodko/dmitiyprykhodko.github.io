@@ -195,9 +195,10 @@ h3{
 	position: relative;
 	justify-content: center;
 	display: flex;
+	align-items: flex-start;
 	flex-wrap: wrap;
 	background-image: url(../img/SpiderMan4.png);
-	background-repeat: repeat-x;
+	background-repeat: no-repeat;
 }
 #fone1{
 	position: absolute;
