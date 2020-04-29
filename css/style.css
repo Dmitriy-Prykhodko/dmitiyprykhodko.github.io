@@ -197,6 +197,12 @@ h3{
 	text-align: left;
 	font-size: 60px;
 }
+/*настройка ширины блока в зависимости от ширины экрана*/
+@media screen and (max-width: 1150px){
+	.textShortInfo{
+		font-size: 40px;
+	}
+}
 /*Блок с оценками*/
 .assessments{
 	width: 100%;
