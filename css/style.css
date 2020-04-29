@@ -393,6 +393,12 @@ td {
 	color: white;
 	text-align: justify;
 }
+/*настройка ширины блока в зависимости от ширины экрана*/
+@media screen and (max-width: 1250px){
+	.citytext{
+		width: 85%;
+	}
+}
 /*Слайдер*/
 .slidesshow-conteiner{
 	margin-left: 20px;
